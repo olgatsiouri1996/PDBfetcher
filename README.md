@@ -3,7 +3,7 @@ A cross platform GUI app for windows and linux to download pdb or fasta files fr
 
 ![](img/program_gui.png)
 
-### The GUI apps and input/output examples can be downloaded here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7686299.svg)](https://doi.org/10.5281/zenodo.7686299)
+### The GUI apps and input/output examples can be downloaded here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7686351.svg)](https://doi.org/10.5281/zenodo.7686351)
 
 ## Windows Dependences
 Windows 10 version 1803 or later
